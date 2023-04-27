@@ -1,56 +1,64 @@
+This is a Git repository that contains a list of software and services i use
+List of Software and Services
 
-# Services
+🐍 Pyypl - A Python library for making HTTP requests and handling responses.
 
-## Cloudflare
+☁️ Cloudflare - A CDN and DNS provider for websites.
 
-[Cloudflare](https://cloudflare.com) is a web infrastructure and security company that provides content delivery network (CDN) services, DDoS protection, and security services for websites. Cloudflare offers a range of products and services that can help website owners improve website performance, security, and reliability.
+🌑 Shadowsocks with v2ray - A secure proxy tool for bypassing censorship and geo-restrictions.
 
-## Pyypl
+📱 DroidFS - An encrypted file storage application for Android devices.
 
-[Pyypl](https://pyypl.com/) is a virtual credit card service that allows users to generate one-time use credit cards for online purchases. This service can help protect your financial information and prevent fraudulent activity when shopping online.
+🧲 qBittorrent-nox - A lightweight and fast torrent client with a web interface.
 
-## Dropbox
+📁 FolderSync Pro - An Android app that allows for syncing files and folders to various cloud services.
 
-Dropbox is a cloud storage service that allows users to store and share files and folders with others. Dropbox provides a secure and easy-to-use platform for file storage, syncing, and sharing, with features like version history and collaboration tools.
+🔊 Droidify - An Android app that turns your device into a music player.
 
-## Tailscale
+🆘 Duress - An app that allows you to quickly send an emergency message to pre-selected contacts.
 
-[Tailscale](https://tailscale.com/) is a VPN service that allows secure remote access to networks and devices. Tailscale provides a mesh network that allows devices to connect securely to each other, without requiring a traditional VPN setup. This makes it easy to set up secure remote access for individuals and teams.
+💤 Naptime - An Android app that improves battery life by optimizing device sleep.
 
-# Software
+🔒 Magisk - A systemless root tool for Android devices.
 
-## Gocryptfs
+🗂️ TidyPanel - An app that helps you organize your home screen on Android devices.
 
-`Gocryptfs` is a free and open-source encryption tool that allows users to create encrypted filesystems in user space. It encrypts individual files and directories using AES-256 (Sirikali for desktop, droidfs/encfs for android).
+🔑 KeePassXC - A cross-platform password manager.
 
-## Foldersync
+🔑 KeePass for Android - An Android app that works with KeePass-compatible password databases.
 
-`Foldersync` is a paid Android app that allows users to synchronize files and folders between their mobile devices and cloud storage services such as Dropbox, Google Drive, and Microsoft OneDrive.
+📁 Koofr - A cloud storage service with a focus on privacy and security.
 
-## SD Maid
+☁️ pCloud - A cloud storage service with file sharing capabilities.
 
-`SD Maid` is a paid Android app that helps users manage and optimize their mobile device's storage space. It can analyze and clean up unnecessary files, databases, and directories.
+📦 Dropbox - A popular cloud storage and file sharing service.
 
-## Syncthing
+🐈 Tailscale - A VPN service that allows for secure remote access to devices.
 
-`Syncthing` is a free and open-source file synchronization tool that allows users to synchronize files and folders between devices without relying on a central server.
+🔐 Aegis - A two-factor authentication app for Android devices.
 
-## YouTube Vanced
+📟 Termius - An SSH client for Android devices.
 
-`YouTube Vanced` is a modified version of the YouTube app that provides features such as ad-blocking, background playback, and picture-in-picture mode.
+🔔 Ntfy - An app that sends you notifications when a command line task is complete.
 
-## MPV
+🎵 Acode - An Android code editor and integrated development environment.
 
-`MPV` is a free and open-source media player that supports a wide range of video and audio formats. It has a simple and customizable interface and can be used on various operating systems.
+📟 Infinity Reddit - An Android app for browsing Reddit.
 
-## KeePass
+📹 YouTube Vanced - A modified version of the YouTube app for Android devices.
 
-`KeePass` is a free and open-source password manager that allows users to store and organize their passwords and other sensitive data in an encrypted database.
+🔒 Kuroba Ex - An encryption tool for Android devices.
 
-## Nekogram X
+🌀 Warpinator - A file sharing tool for Linux-based operating systems.
 
-`Nekogram X` is a free and open-source messaging app for the Telegram messaging platform. It provides additional features and customization options compared to the official Telegram app.
+🔁 Syncthing - An open-source file synchronization tool.
 
-## Infinity for Reddit
+🗂️ Solid Explorer - A file manager for Android devices.
 
-`Infinity for Reddit` is a free and open-source app for browsing the Reddit social network. It provides a clean and customizable interface and offers features such as multiple accounts and a built-in media viewer.
+📂 NeoBackup - An Android app for backing up and restoring files.
+
+🐰 Briar - A secure messaging and file sharing app.
+
+📱 KDE Connect - An app that allows for communication and file sharing between Android devices and computers.
+
+🐧 NixOS - A Linux distribution that emphasizes declarative configuration and package management.
