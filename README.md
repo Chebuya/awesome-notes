@@ -1,7 +1,7 @@
 This is a Git repository that contains a list of software and services i use
 List of Software and Services
 
-🐍 Pyypl - A Python library for making HTTP requests and handling responses.
+💳 Pyypl - A virtual card service that is available in Russia.
 
 ☁️ Cloudflare - A CDN and DNS provider for websites.
 
@@ -13,7 +13,7 @@ List of Software and Services
 
 📁 FolderSync Pro - An Android app that allows for syncing files and folders to various cloud services.
 
-🔊 Droidify - An Android app that turns your device into a music player.
+🔊 Droidify - An Android app that allows for managing and installing apps from F-Droid, an open-source app repository.
 
 🆘 Duress - An app that allows you to quickly send an emergency message to pre-selected contacts.
 
@@ -47,7 +47,7 @@ List of Software and Services
 
 📹 YouTube Vanced - A modified version of the YouTube app for Android devices.
 
-🔒 Kuroba Ex - An encryption tool for Android devices.
+🐰 Kuroba Ex - An imageboard browser for Android devices.
 
 🌀 Warpinator - A file sharing tool for Linux-based operating systems.
 
