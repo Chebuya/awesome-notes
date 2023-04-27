@@ -21,7 +21,7 @@ List of Software and Services
 
 🔒 Magisk - A systemless root tool for Android devices.
 
-🗂️ TidyPanel - An app that helps you organize your home screen on Android devices.
+🗂️ TidyPanel - An app that helps you organize your home screen on Android devices, also tweaking notification settings.
 
 🔑 KeePassXC - A cross-platform password manager.
 
