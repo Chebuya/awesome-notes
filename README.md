@@ -20,7 +20,7 @@
 
 * 🔊 Droidify - An Android app that allows for managing and installing apps from F-Droid, an open-source app repository.
 
-* 🆘 Duress - An app that allows you to quickly send an emergency message to pre-selected contacts.
+* 🆘 Duress - An app that can trigger emergency action on duress pin, for example wipe your phone to factory settings.
 
 * 💤 Naptime - An Android app that improves battery life by optimizing device sleep.
 
