@@ -1,64 +1,69 @@
-This is a Git repository that contains a list of software and services i use
-List of Software and Services
+# Notes
+### About hardening shadowsocks with v2ray and cloudflare:
+* https://github.com/ru-crypto-anarchy/shadowsocks-v2ray-cdn
+* https://krasovs.ky/2022/03/19/shadowsocks-and-v2ray-and-cloudflare.html
+![ss_v2ray_cf](https://user-images.githubusercontent.com/28766913/235005594-0dcee64f-0556-4e49-a855-f265408bda49.png)
 
-💳 Pyypl - A virtual card service that is available in Russia.
+# List of software i use
 
-☁️ Cloudflare - A CDN and DNS provider for websites.
+* 💳 Pyypl - A virtual card service that is available in Russia.
 
-🌑 Shadowsocks with v2ray - A secure proxy tool for bypassing censorship and geo-restrictions.
+* ☁️ Cloudflare - A CDN and DNS provider for websites.
 
-📱 DroidFS - An encrypted file storage application for Android devices.
+* 🌑 Shadowsocks with v2ray - A secure proxy tool for bypassing censorship and geo-restrictions.
 
-🧲 qBittorrent-nox - A lightweight and fast torrent client with a web interface.
+* 📱 DroidFS - An encrypted file storage application for Android devices.
 
-📁 FolderSync Pro - An Android app that allows for syncing files and folders to various cloud services.
+* 🧲 qBittorrent-nox - A lightweight and fast torrent client with a web interface.
 
-🔊 Droidify - An Android app that allows for managing and installing apps from F-Droid, an open-source app repository.
+* 📁 FolderSync Pro - An Android app that allows for syncing files and folders to various cloud services.
 
-🆘 Duress - An app that allows you to quickly send an emergency message to pre-selected contacts.
+* 🔊 Droidify - An Android app that allows for managing and installing apps from F-Droid, an open-source app repository.
 
-💤 Naptime - An Android app that improves battery life by optimizing device sleep.
+* 🆘 Duress - An app that allows you to quickly send an emergency message to pre-selected contacts.
 
-🔒 Magisk - A systemless root tool for Android devices.
+* 💤 Naptime - An Android app that improves battery life by optimizing device sleep.
 
-🗂️ TidyPanel - An app that helps you organize your home screen on Android devices, also tweaking notification settings.
+* 🔒 Magisk - A systemless root tool for Android devices.
 
-🔑 KeePassXC - A cross-platform password manager.
+* 🗂️ TidyPanel - An app that helps you organize your home screen on Android devices, also tweaking notification settings.
 
-🔑 KeePass for Android - An Android app that works with KeePass-compatible password databases.
+* 🔑 KeePassXC - A cross-platform password manager.
 
-📁 Koofr - A cloud storage service with a focus on privacy and security.
+* 🔑 KeePass for Android - An Android app that works with KeePass-compatible password databases.
 
-☁️ pCloud - A cloud storage service with file sharing capabilities.
+* 📁 Koofr - A cloud storage service with a focus on privacy and security.
 
-📦 Dropbox - A popular cloud storage and file sharing service.
+* ☁️ pCloud - A cloud storage service with file sharing capabilities.
 
-🐈 Tailscale - A VPN service that allows for secure remote access to devices.
+* 📦 Dropbox - A popular cloud storage and file sharing service.
 
-🔐 Aegis - A two-factor authentication app for Android devices.
+* 🐈 Tailscale - A VPN service that allows for secure remote access to devices.
 
-📟 Termius - An SSH client for Android devices.
+* 🔐 Aegis - A two-factor authentication app for Android devices.
 
-🔔 Ntfy - An app that sends you notifications when a command line task is complete.
+* 📟 Termius - An SSH client for Android devices.
 
-🎵 Acode - An Android code editor and integrated development environment.
+* 🔔 Ntfy - An app that sends you notifications when a command line task is complete.
 
-📟 Infinity Reddit - An Android app for browsing Reddit.
+* 🎵 Acode - An Android code editor and integrated development environment.
 
-📹 YouTube Vanced - A modified version of the YouTube app for Android devices.
+* 📟 Infinity Reddit - An Android app for browsing Reddit.
 
-🐰 Kuroba Ex - An imageboard browser for Android devices.
+* 📹 YouTube Vanced - A modified version of the YouTube app for Android devices.
 
-🌀 Warpinator - A file sharing tool for Linux-based operating systems.
+* 🐰 Kuroba Ex - An imageboard browser for Android devices.
 
-🔁 Syncthing - An open-source file synchronization tool.
+* 🌀 Warpinator - A file sharing tool for Linux-based operating systems.
 
-🗂️ Solid Explorer - A file manager for Android devices.
+* 🔁 Syncthing - An open-source file synchronization tool.
 
-📂 NeoBackup - An Android app for backing up and restoring files.
+* 🗂️ Solid Explorer - A file manager for Android devices.
 
-🐰 Briar - A secure messaging and file sharing app.
+* 📂 NeoBackup - An Android app for backing up and restoring files.
 
-📱 KDE Connect - An app that allows for communication and file sharing between Android devices and computers.
+* 🐰 Briar - A secure messaging and file sharing app.
 
-🐧 NixOS - A Linux distribution that emphasizes declarative configuration and package management.
+* 📱 KDE Connect - An app that allows for communication and file sharing between Android devices and computers.
+
+* 🐧 NixOS - A Linux distribution that emphasizes declarative configuration and package management.
